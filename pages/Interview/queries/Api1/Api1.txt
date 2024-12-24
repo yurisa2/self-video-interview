@@ -1,0 +1,6 @@
+{
+	
+	"data": {{ Camera1.videoDataURL }} 
+
+
+}

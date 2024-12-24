@@ -1,0 +1,16 @@
+{
+  "gitSyncId": "676440b16979e43083a0b779_c47bffb9-cb7c-45f2-bdcc-79c03060efc1",
+  "id": "Interview_data_object",
+  "unpublishedCollection": {
+    "name": "data_object",
+    "pageId": "Interview",
+    "pluginId": "js-plugin",
+    "pluginType": "JS",
+    "variables": [
+      {
+        "name": "seconds_left",
+        "value": "10"
+      }
+    ]
+  }
+}

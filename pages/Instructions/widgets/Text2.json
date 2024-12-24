@@ -1,0 +1,56 @@
+{
+  "animateLoading": true,
+  "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
+  "bottomRow": 80,
+  "dynamicBindingPathList": [
+    {
+      "key": "truncateButtonColor"
+    },
+    {
+      "key": "fontFamily"
+    },
+    {
+      "key": "borderRadius"
+    },
+    {
+      "key": "text"
+    }
+  ],
+  "dynamicHeight": "AUTO_HEIGHT_WITH_LIMITS",
+  "dynamicTriggerPathList": [],
+  "fontFamily": "{{appsmith.theme.fontFamily.appFont}}",
+  "fontSize": "1rem",
+  "fontStyle": "",
+  "isLoading": false,
+  "isVisible": true,
+  "key": "q7ig16wvdt",
+  "leftColumn": 1,
+  "maxDynamicHeight": 74,
+  "minDynamicHeight": 58,
+  "minWidth": 450,
+  "mobileBottomRow": 9,
+  "mobileLeftColumn": 0,
+  "mobileRightColumn": 15,
+  "mobileTopRow": 5,
+  "needsErrorInfo": false,
+  "originalBottomRow": 48,
+  "originalTopRow": 6,
+  "overflow": "NONE",
+  "parentColumnSpace": 17.21875,
+  "parentId": "0",
+  "parentRowSpace": 10,
+  "renderMode": "CANVAS",
+  "responsiveBehavior": "fill",
+  "rightColumn": 61,
+  "shouldScrollContents": true,
+  "shouldTruncate": false,
+  "text": "\nHello  {{appsmith.store.candidate_name}},\n\nThank you for taking the time to participate in our video interview process. We're excited to learn more about you and your qualifications!\n\nBefore You Begin\n\nWe encourage you to review the job description thoroughly to understand the role and how your skills align with it. This will help you provide more tailored and relevant responses during the interview.\n\nDuring the Interview\n\n    - Stay calm and take a deep breath before starting. This is your opportunity to showcase your strengths, so approach each question with confidence. We really want you to succeed!\n    - Be as thorough as possible in your answers. Provide specific examples and details to help us understand your experience and thought process.\n\nImportant Notes\n\n    - Keep track of the time. Each question has a time limit, so plan your responses accordingly.\n    - Once you start the interview, you won't be able to go back or redo any part of it. Please ensure you're in a quiet and distraction-free environment before beginning.\n\nWe wish you the best of luck and look forward to your responses!",
+  "textAlign": "LEFT",
+  "textColor": "#231F20",
+  "topRow": 22,
+  "truncateButtonColor": "{{appsmith.theme.colors.primaryColor}}",
+  "type": "TEXT_WIDGET",
+  "version": 1,
+  "widgetId": "rpdy7seyfn",
+  "widgetName": "Text2"
+}
