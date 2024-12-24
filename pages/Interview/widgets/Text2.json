@@ -1,7 +1,7 @@
 {
   "animateLoading": true,
   "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
-  "bottomRow": 100,
+  "bottomRow": 80,
   "dynamicBindingPathList": [
     {
       "key": "truncateButtonColor"
@@ -18,7 +18,7 @@
   "isLoading": false,
   "isVisible": true,
   "key": "1p27h3q5am",
-  "leftColumn": 12,
+  "leftColumn": 10,
   "maxDynamicHeight": 9000,
   "minDynamicHeight": 4,
   "minWidth": 450,
@@ -35,12 +35,12 @@
   "parentRowSpace": 10,
   "renderMode": "CANVAS",
   "responsiveBehavior": "fill",
-  "rightColumn": 56,
+  "rightColumn": 54,
   "shouldTruncate": false,
   "text": "Instructions:\n- Enable access to the camera and microphone you choose\n- Click the recording button \n- If you satisfied with the answer click the STOP and then Green V button to confirm\n- If you are not satisfied, click on the redo button X and start over (but you have only the time assigned)",
   "textAlign": "LEFT",
   "textColor": "#231F20",
-  "topRow": 85,
+  "topRow": 65,
   "truncateButtonColor": "{{appsmith.theme.colors.primaryColor}}",
   "type": "TEXT_WIDGET",
   "version": 1,
