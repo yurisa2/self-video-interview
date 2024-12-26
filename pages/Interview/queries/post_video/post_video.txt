@@ -1,0 +1,3 @@
+{	"data": {{ Camera1.videoDataURL }},
+	"test": "here is the thing"
+}

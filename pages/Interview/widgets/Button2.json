@@ -31,7 +31,7 @@
   "mobileRightColumn": 41,
   "mobileTopRow": 11,
   "needsErrorInfo": false,
-  "onClick": "{{Api1.run()}}",
+  "onClick": "{{post_video.run()}}",
   "originalBottomRow": 79,
   "originalTopRow": 75,
   "parentColumnSpace": 17.9375,
