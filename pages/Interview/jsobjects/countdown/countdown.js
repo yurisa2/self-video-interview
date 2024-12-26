@@ -1,6 +1,6 @@
 export default {
 	start_timer () {
-		data_object.seconds_left = 120,
+		data_object.seconds_left = 90,
 		setInterval(() => countdown.update_timer(), 1000, "q1timer")
 	},
 			
