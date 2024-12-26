@@ -26,6 +26,11 @@
   "applicationVersion": 2,
   "collapseInvisibleWidgets": true,
   "color": "#D6D1F2",
+  "embedSetting": {
+    "height": "720px",
+    "showNavigationBar": false,
+    "width": "1024px"
+  },
   "evaluationVersion": 2,
   "icon": "bag",
   "pages": [
