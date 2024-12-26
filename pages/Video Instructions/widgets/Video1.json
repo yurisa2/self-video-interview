@@ -3,7 +3,7 @@
   "autoPlay": true,
   "backgroundColor": "#000",
   "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
-  "bottomRow": 48,
+  "bottomRow": 38,
   "boxShadow": "{{appsmith.theme.boxShadow.appBoxShadow}}",
   "dynamicBindingPathList": [
     {
@@ -22,7 +22,7 @@
   "isLoading": false,
   "isVisible": true,
   "key": "3kd5lnif0x",
-  "leftColumn": 14,
+  "leftColumn": 12,
   "mobileBottomRow": 51,
   "mobileLeftColumn": 11,
   "mobileRightColumn": 35,
@@ -34,8 +34,8 @@
   "parentRowSpace": 10,
   "renderMode": "CANVAS",
   "responsiveBehavior": "fill",
-  "rightColumn": 53,
-  "topRow": 10,
+  "rightColumn": 51,
+  "topRow": 0,
   "type": "VIDEO_WIDGET",
   "url": "https://assets.appsmith.com/widgets/bird.mp4",
   "version": 1,

@@ -50,7 +50,7 @@
   "responsiveBehavior": "fill",
   "rightColumn": 62,
   "serverSideFiltering": false,
-  "sourceData": "[\n  {\n    \"name\": \"Data Engineering\",\n    \"code\": \"dataeng\"\n  }\n]",
+  "sourceData": "[\n  {\n    \"name\": \"Data Engineering - PoC\",\n    \"code\": \"dataeng\"\n  }\n]",
   "topRow": 12,
   "type": "SELECT_WIDGET",
   "version": 1,
