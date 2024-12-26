@@ -1,3 +1,4 @@
 {	"data": {{ Camera1.videoDataURL }},
-	"test": "here is the thing"
+	"name": {{appsmith.store.candidate_name}},
+ "stack": {{ appsmith.store.candidate_stack.value}}
 }

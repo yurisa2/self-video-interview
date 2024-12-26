@@ -64,6 +64,7 @@
   "leftColumn": 0,
   "maxDynamicHeight": 9000,
   "minDynamicHeight": 24,
+  "minHeight": 240,
   "mobileBottomRow": 60,
   "mobileLeftColumn": 0,
   "mobileRightColumn": 12,
@@ -79,6 +80,6 @@
   "type": "MODAL_WIDGET",
   "version": 2,
   "widgetId": "j6nhb3neuy",
-  "widgetName": "Modal1",
-  "width": 848
+  "widgetName": "mdl_wait",
+  "width": 546
 }

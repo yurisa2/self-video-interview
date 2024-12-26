@@ -14,19 +14,24 @@
       "key": "borderRadius"
     }
   ],
-  "dynamicTriggerPathList": [],
+  "dynamicTriggerPathList": [
+    {
+      "key": "onClick"
+    }
+  ],
   "isDefaultClickDisabled": true,
   "isDisabled": false,
   "isLoading": false,
   "isVisible": true,
   "key": "eq1p3obhlv",
-  "leftColumn": 24,
+  "leftColumn": 30,
   "minWidth": 120,
   "mobileBottomRow": 49,
   "mobileLeftColumn": 26,
   "mobileRightColumn": 42,
   "mobileTopRow": 45,
   "needsErrorInfo": false,
+  "onClick": "{{navigateTo('Interview', {}, 'SAME_WINDOW');}}",
   "parentColumnSpace": 17.9375,
   "parentId": "0",
   "parentRowSpace": 10,
@@ -35,7 +40,7 @@
   "renderMode": "CANVAS",
   "resetFormOnClick": false,
   "responsiveBehavior": "hug",
-  "rightColumn": 40,
+  "rightColumn": 46,
   "text": "Go to video answer",
   "topRow": 39,
   "type": "BUTTON_WIDGET",
