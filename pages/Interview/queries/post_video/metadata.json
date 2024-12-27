@@ -11,14 +11,8 @@
           "value": "application/json"
         }
       ],
-      "body": "{\t\"data\": {{ Camera1.videoDataURL }},\n\t\"name\": {{appsmith.store.candidate_name}},\n \"stack\": {{ appsmith.store.candidate_stack.value}}\n}",
-      "bodyFormData": [
-        {
-          "key": "file_string",
-          "type": "Text",
-          "value": "{{ Camera1.imageDataURL }}"
-        }
-      ],
+      "body": "{\n\t\"data\": {{ Camera1.imageDataURL }},\n\t\"name\": {{ appsmith.store.candidate_name }},\n\t\"stack\": {{ appsmith.store.candidate_stack}},\n\t\"jd\": {{ appsmith.store.job_description_full }}\n\n}",
+      "bodyFormData": [],
       "encodeParamsToggle": true,
       "formData": {
         "apiContentType": "application/json"
@@ -48,9 +42,6 @@
     "dynamicBindingPathList": [
       {
         "key": "body"
-      },
-      {
-        "key": "bodyFormData[0].value"
       }
     ],
     "executeOnLoad": false,

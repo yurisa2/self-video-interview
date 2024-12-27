@@ -3,7 +3,7 @@
   "autoPlay": true,
   "backgroundColor": "#000",
   "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
-  "bottomRow": 39,
+  "bottomRow": 41,
   "boxShadow": "{{appsmith.theme.boxShadow.appBoxShadow}}",
   "dynamicBindingPathList": [
     {
@@ -37,7 +37,7 @@
   "rightColumn": 57,
   "topRow": 1,
   "type": "VIDEO_WIDGET",
-  "url": "https://storage.googleapis.com/public-yuri-sa/interview_instructions.mp4",
+  "url": "https://storage.googleapis.com/public-yuri-sa/instructions_interview2.mp4",
   "version": 1,
   "widgetId": "31run871gk",
   "widgetName": "Video1"

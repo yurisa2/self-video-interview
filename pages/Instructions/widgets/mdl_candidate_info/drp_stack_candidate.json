@@ -50,7 +50,7 @@
   "responsiveBehavior": "fill",
   "rightColumn": 62,
   "serverSideFiltering": false,
-  "sourceData": "[\n  {\n    \"name\": \"Data Engineering - PoC\",\n    \"code\": \"dataeng\"\n  }\n]",
+  "sourceData": "[\n  {\n    \"name\": \"Data Engineer - PoC\",\n    \"code\": \"dataeng\"\n  },\n\t  {\n    \"name\": \"AI Engineer - PoC\",\n    \"code\": \"aiengineer\"\n  },\n\t\t  {\n    \"name\": \"Data Scientist - PoC\",\n    \"code\": \"dsengineer\"\n  },\n\t\t\t  {\n    \"name\": \"Full Stack - PoC\",\n    \"code\": \"fsengineer\"\n  }\n]",
   "topRow": 12,
   "type": "SELECT_WIDGET",
   "version": 1,
