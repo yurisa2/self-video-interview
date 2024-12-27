@@ -1,7 +1,6 @@
 {
-	"data": {{ Camera1.imageDataURL }},
+	"data": {{ Camera1.videoDataURL }},
 	"name": {{ appsmith.store.candidate_name }},
 	"stack": {{ appsmith.store.candidate_stack}},
 	"jd": {{ appsmith.store.job_description_full }}
-
 }

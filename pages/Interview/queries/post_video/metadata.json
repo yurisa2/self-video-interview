@@ -11,7 +11,7 @@
           "value": "application/json"
         }
       ],
-      "body": "{\n\t\"data\": {{ Camera1.imageDataURL }},\n\t\"name\": {{ appsmith.store.candidate_name }},\n\t\"stack\": {{ appsmith.store.candidate_stack}},\n\t\"jd\": {{ appsmith.store.job_description_full }}\n\n}",
+      "body": "{\n\t\"data\": {{ Camera1.videoDataURL }},\n\t\"name\": {{ appsmith.store.candidate_name }},\n\t\"stack\": {{ appsmith.store.candidate_stack}},\n\t\"jd\": {{ appsmith.store.job_description_full }}\n}",
       "bodyFormData": [],
       "encodeParamsToggle": true,
       "formData": {
