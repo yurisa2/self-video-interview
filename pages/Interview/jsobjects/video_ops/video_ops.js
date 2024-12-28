@@ -2,6 +2,9 @@ export default {
 	
 	async on_finish_camera () {
 		
+		Text5.setText("Please wait. AI Takes time")
+		Text5Copy.setText("The longer your answer, longer processing times. We will close this and move forward when finish")
+
 		if(Camera1.imageDataURL === "undefined") {
 			showAlert("No video found, record it again")
 		}
